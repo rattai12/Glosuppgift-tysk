@@ -1,0 +1,35 @@
+ett,eins
+två,zwei
+tre,drei
+fyra,vier
+fem,fünf
+sex,sechs
+sju,sieben
+åtta,acht
+nio,neun
+tio,zehn
+gratis,kostenlos
+välkommen,willkommen
+inte illa,nicht schlecht
+filmen,der Filme
+gå,gehen
+synd,schade
+också,auch
+kvinnan,die Frauen
+tillsammans,zusammen
+angenämt,angenehm
+trevlig,nett
+snäll,lieb
+besöka,besuchen
+skina,scheinen
+ja,ja
+nej,nein
+tala,sprechen
+arbeta,arbeiten
+med,mit
+lära sig,lernen
+bo,wohnen
+ungefär,etwa
+omkring,rund um
+fler,mehr
+mellan,zwischen
